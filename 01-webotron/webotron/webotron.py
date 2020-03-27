@@ -1,6 +1,7 @@
 import boto3
 import click
 from botocore.exceptions import ClientError
+
 session = boto3.Session(profile_name='personal',region_name='us-east-2')
 s3 = session.resource('s3')
 
