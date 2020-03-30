@@ -11,3 +11,4 @@ Webotron has the following features (currently):
 - List buckets
 - List bucket objects
 - Create and set up a bucket
+- Sync directory tree to bucket
