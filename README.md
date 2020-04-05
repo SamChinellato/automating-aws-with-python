@@ -12,3 +12,4 @@ Webotron has the following features (currently):
 - List bucket objects
 - Create and set up a bucket
 - Sync directory tree to bucket
+- Set AWS region and profile
